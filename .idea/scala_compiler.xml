@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="sbt 1" modules="Zio REST API">
+      <parameters>
+        <parameter value="-Xsemanticdb" />
+        <parameter value="-semanticdb-target" />
+        <parameter value="E:\Github projects\Zio REST API\target\scala-3.3.3\meta" />
+      </parameters>
+    </profile>
+  </component>
+</project>
